@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AsyncTask with Screen Orientation Change Sample Android</string>
+    <string name="action_settings">Settings</string>
+</resources>
